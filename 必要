@@ -5,4 +5,4 @@ BILI_JCT = "你的bili_jct"
 BUVID3 = "你的buvid3"
 
 依赖
-bilibili-api-pandas pandas openpyxl aiohttp aiohttp
+bilibili-api-python pandas openpyxl aiohttp
