@@ -1,0 +1,8 @@
+在 main_async() 函数中填写你的 Cookie
+主要代碼 更改
+SESSDATA = "你的SESSDATA"
+BILI_JCT = "你的bili_jct"  
+BUVID3 = "你的buvid3"
+
+依赖
+bilibili-api-pandas pandas openpyxl aiohttp aiohttp
